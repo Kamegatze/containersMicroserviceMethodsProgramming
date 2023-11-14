@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sherayev.arifmetick_container.ArithmeticContainerApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-18T11:58:45" hostname="kamegatze" time="1.015">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.sherayev.arifmetick_container.ArithmeticContainerApplicationTests" time="1.015"/>
+  <system-out><![CDATA[14:58:43.507 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.sherayev.arifmetick_container.ArithmeticContainerApplicationTests]: ArithmeticContainerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:58:43.646 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.sherayev.arifmetick_container.ArithmeticContainerApplication for test class com.sherayev.arifmetick_container.ArithmeticContainerApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.4)
+
+2023-10-18T14:58:44.191+03:00  INFO 19875 --- [    Test worker] .s.a.ArithmeticContainerApplicationTests : Starting ArithmeticContainerApplicationTests using Java 17.0.8.1 with PID 19875 (started by kamegatze in /home/kamegatze/Documents/arifmetick_container)
+2023-10-18T14:58:44.194+03:00  INFO 19875 --- [    Test worker] .s.a.ArithmeticContainerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-10-18T14:58:45.903+03:00  INFO 19875 --- [    Test worker] .s.a.ArithmeticContainerApplicationTests : Started ArithmeticContainerApplicationTests in 2.05 seconds (process running for 3.659)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
